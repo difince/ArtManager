@@ -9,11 +9,74 @@
         <dex dex="C:\Users\angelr\Desktop\ArtManager\ArtManager\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-19d2b6f23d8a2eec6a880fe6c0b435558a872209.jar" />
     </item>
     <item
+        jar="C:\DiskD\Projects\ArtManager2\ArtManager\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\DiskD\Projects\ArtManager2\ArtManager\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-bc0d95c7b93ccd63e648aab568b636c7808d8e97.jar" />
+    </item>
+    <item
+        jar="C:\DiskD\Projects\ArtManager2\ArtManager\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\DiskD\Projects\ArtManager2\ArtManager\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-bc0d95c7b93ccd63e648aab568b636c7808d8e97.jar" />
+    </item>
+    <item
         jar="C:\Users\angelr\Desktop\ArtManager\ArtManager\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\classes.jar"
         jumboMode="false"
         revision="23.0.0 rc2"
         sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
         <dex dex="C:\Users\angelr\Desktop\ArtManager\ArtManager\build\intermediates\pre-dexed\debug\classes-5097cd7f297cea29dc694eff82147245ac7bea0c.jar" />
+    </item>
+    <item
+        jar="C:\Users\angelr\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.1\44780c2cf98f6a3cf4e77f1234d644758b329201\bolts-android-1.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="44780c2cf98f6a3cf4e77f1234d644758b329201">
+        <dex dex="C:\DiskD\Projects\ArtManager2\ArtManager\build\intermediates\pre-dexed\debug\bolts-android-1.2.1-1738bfc8e768e85832fca3a267a80c51d06b77fe.jar" />
+    </item>
+    <item
+        jar="C:\DiskD\Projects\ArtManager2\ArtManager\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\DiskD\Projects\ArtManager2\ArtManager\build\intermediates\pre-dexed\debug\classes-128617980eccae8751f79e831583bf6bdc2bc544.jar" />
+    </item>
+    <item
+        jar="C:\Users\angelr\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.10.3\36366e460af2c0f224bb8f70b64e3302f638b138\parse-android-1.10.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="36366e460af2c0f224bb8f70b64e3302f638b138">
+        <dex dex="C:\DiskD\Projects\ArtManager2\ArtManager\build\intermediates\pre-dexed\debug\parse-android-1.10.3-a7345aa1a3455141260bdb6dddeaad612b385930.jar" />
+    </item>
+    <item
+        jar="C:\DiskD\Projects\ArtManager2\ArtManager\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\DiskD\Projects\ArtManager2\ArtManager\build\intermediates\pre-dexed\debug\classes-128617980eccae8751f79e831583bf6bdc2bc544.jar" />
+    </item>
+    <item
+        jar="C:\Users\angelr\Desktop\ArtManager\ArtManager\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\angelr\Desktop\ArtManager\ArtManager\build\intermediates\pre-dexed\debug\classes-8727e2d8860fb4586dd48a72889cbd29568eb8ef.jar" />
+    </item>
+    <item
+        jar="C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\DiskD\Projects\ArtManager2\ArtManager\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-b882185bdf7e01b06985ec771daafb5ee19e53d1.jar" />
+    </item>
+    <item
+        jar="C:\DiskD\Projects\ArtManager2\ArtManager\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\DiskD\Projects\ArtManager2\ArtManager\build\intermediates\pre-dexed\debug\classes-83f9e5af0fe232fb2bbd9e5b759fdec968086dc8.jar" />
     </item>
     <item
         jar="C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
@@ -23,11 +86,11 @@
         <dex dex="C:\Users\angelr\Desktop\ArtManager\ArtManager\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-b882185bdf7e01b06985ec771daafb5ee19e53d1.jar" />
     </item>
     <item
-        jar="C:\Users\angelr\Desktop\ArtManager\ArtManager\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jar="C:\DiskD\Projects\ArtManager2\ArtManager\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\classes.jar"
         jumboMode="false"
-        revision="23.0.0 rc2"
-        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="C:\Users\angelr\Desktop\ArtManager\ArtManager\build\intermediates\pre-dexed\debug\classes-8727e2d8860fb4586dd48a72889cbd29568eb8ef.jar" />
+        revision="23.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\DiskD\Projects\ArtManager2\ArtManager\build\intermediates\pre-dexed\debug\classes-83f9e5af0fe232fb2bbd9e5b759fdec968086dc8.jar" />
     </item>
 
 </items>
