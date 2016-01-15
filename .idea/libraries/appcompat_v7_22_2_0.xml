@@ -4,12 +4,12 @@
       <root url="jar://$PROJECT_DIR$/ArtManager/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/ArtManager/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/ArtManager/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res" />
+      <root url="jar://$PROJECT_DIR$/ArtManager/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://C:/Program Files (x86)/Android/android-sdk/extras/android/m2repository/com/android/support/appcompat-v7/22.2.0/appcompat-v7-22.2.0-sources.jar!/" />
+      <root url="jar:///stash/AndroidSDK/android-sdk-linux/extras/android/m2repository/com/android/support/appcompat-v7/22.2.0/appcompat-v7-22.2.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
